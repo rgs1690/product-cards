@@ -45,7 +45,7 @@ img {
 
 body    { 
     background: #5D4037; }
-.default-primary-color { 
+footer { 
     background: #795548; }
 .card   { 
     background: #D7CCC8; }
@@ -53,9 +53,9 @@ h1    {
     color: #FFFFFF; 
     text-align: center;
     }
-footer { 
+h2 { 
     background: #009688; }
- h3   { 
+h3  { 
      color: #212121; }
 h4 { 
     color: #757575; }
