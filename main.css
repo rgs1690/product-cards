@@ -43,5 +43,22 @@ img {
     object-fit: cover;
 }
 
-
+body    { 
+    background: #5D4037; }
+.default-primary-color { 
+    background: #795548; }
+.card   { 
+    background: #D7CCC8; }
+h1    { 
+    color: #FFFFFF; 
+    text-align: center;
+    }
+footer { 
+    background: #009688; }
+ h3   { 
+     color: #212121; }
+h4 { 
+    color: #757575; }
+.description { 
+    border-color: #BDBDBD; }
  
