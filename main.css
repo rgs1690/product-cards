@@ -81,3 +81,16 @@ h4 {
     left: 150px;; 
     border: none; 
 }   
+@media (max-width: 480px) {
+    .flex-container{
+        flex-direction: column;
+    }
+    .card{
+        flex: 1 25%;
+    }
+    
+      
+    }
+}
+
+
