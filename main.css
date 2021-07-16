@@ -4,6 +4,12 @@
     width:100%; 
 }
 
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> ab3bb4518a314057bd3ccf01cc0dee5233489f3f
 .flex-container{
     display: flex;
     flex-wrap: wrap;
@@ -41,17 +47,30 @@ img {
     width:  100px;
     height: 100px;
     object-fit: cover;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    border: solid 2px darkgrey;
+>>>>>>> ab3bb4518a314057bd3ccf01cc0dee5233489f3f
 }
 
 body    { 
     background: #5D4037; }
+<<<<<<< HEAD
 footer { 
     background: #795548; }
+=======
+
+footer { 
+    background: #795548; }
+
+>>>>>>> ab3bb4518a314057bd3ccf01cc0dee5233489f3f
 .card   { 
     background: #D7CCC8; }
 h1    { 
     color: #FFFFFF; 
     text-align: center;
+<<<<<<< HEAD
     }
 h2 { 
     background: #009688; }
@@ -62,3 +81,21 @@ h4 {
 .description { 
     border-color: #BDBDBD; }
  
+=======
+    font-family: 'Shadows Into Light', cursive;
+    }
+h2 { 
+    font-family: 'Shadows Into Light', cursive;
+    background: #009688; }
+    
+h3  { 
+    font-family: 'Roboto', sans-serif;
+    color: #212121; }
+h4 { 
+    font-family: 'Roboto', sans-serif;
+    color: #757575; }
+.description { 
+    border-color: #BDBDBD; }
+ 
+
+>>>>>>> ab3bb4518a314057bd3ccf01cc0dee5233489f3f
