@@ -81,6 +81,16 @@ h4 {
     left: 150px; 
     border: none; 
 }   
+
+@media (max-width: 1050px){
+    .sold-out{
+        width:25%;
+        position: absolute;
+        top: 40px;
+        left: 114px; 
+    }
+}
+
 @media (max-width: 800px){
     .sold-out{
         width:25%;
@@ -89,7 +99,6 @@ h4 {
         left: 84px; 
     }
 }
-
 
 @media (max-width: 480px) {
     h1{
