@@ -78,6 +78,46 @@ h4 {
     width:25%;
     position: absolute;
     top: 45px;
-    left: 150px;; 
+    left: 150px; 
     border: none; 
 }   
+
+@media (max-width: 1050px){
+    .sold-out{
+        width:25%;
+        position: absolute;
+        top: 40px;
+        left: 114px; 
+    }
+}
+
+@media (max-width: 800px){
+    .sold-out{
+        width:25%;
+        position: absolute;
+        top: 70px;
+        left: 84px; 
+    }
+}
+
+@media (max-width: 480px) {
+    h1{
+        text-align: start;
+    }
+    .flex-container{
+        flex-direction: column;
+        justify-content: center;
+    }
+    .card{
+        flex: 1 25%;
+    }
+    .sold-out{
+        width:25%;
+        position: absolute;
+        top: 35px;
+        left: 107px; 
+    }
+    }
+  
+
+
