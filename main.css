@@ -78,7 +78,7 @@ h4 {
     width:25%;
     position: absolute;
     top: 45px;
-    left: 150px;; 
+    left: 150px; 
     border: none; 
 }   
 @media (max-width: 480px) {
@@ -88,9 +88,16 @@ h4 {
     .card{
         flex: 1 25%;
     }
+    .sold-out{
+        width:25%;
+        position: absolute;
+        top: 35px;
+        left: 107px; 
+    }
+    
     
       
     }
-}
+
 
 
