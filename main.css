@@ -77,12 +77,19 @@ h4 {
 .sold-out{
     width:25%;
     position: absolute;
-    top: 45px;
+    top: 55px;
     left: 150px; 
     border: none; 
 }   
 
 @media (max-width: 1050px){
+    #soldOut{
+        width: 25%;
+        position: relative;
+        top: 0;
+        left: 0; 
+    }
+    
     .sold-out{
         width:25%;
         position: absolute;
@@ -92,6 +99,12 @@ h4 {
 }
 
 @media (max-width: 800px){
+    #soldOut{
+        width: 25%;
+        position: relative;
+        top: 0;
+        left: 0; 
+    }
     .sold-out{
         width:25%;
         position: absolute;
@@ -110,7 +123,14 @@ h4 {
     }
     .card{
         flex: 1 25%;
+    } 
+    #soldOut{
+        width: 25%;
+        position: relative;
+        top: 0;
+        left: 0; 
     }
+    
     .sold-out{
         width:25%;
         position: absolute;
